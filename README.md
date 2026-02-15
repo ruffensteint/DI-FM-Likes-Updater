@@ -21,7 +21,7 @@ Instead of manually scrolling through your likes, this tool connects to the offi
 
 Prebuilt Windows executable available under:
 
-**Releases → Assets → di-fm-likes-updater.exe**
+**Releases → Assets → DI Playlist Updater.exe**
 
 No Python installation required.
 
