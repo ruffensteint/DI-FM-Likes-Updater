@@ -44,7 +44,7 @@ def fetch_votes(session_key: str, member_id: str, per_page: int = 200):
     headers = {
         "Accept": "application/json",
         "User-Agent": "Mozilla/5.0",
-        "X-Session-Key": session_key,
+        
     }
 
     rows = []
